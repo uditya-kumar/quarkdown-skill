@@ -1,8 +1,16 @@
 # Quarkdown Skill
 
+[![Install](https://skills.sh/b/uditya-kumar/quarkdown-skill)](https://skills.sh/s/uditya-kumar/quarkdown-skill)
+
 A Claude [Skill](https://www.anthropic.com/news/claude-skills) for authoring [Quarkdown](https://github.com/iamgio/quarkdown) (`.qd`) documents: books, articles, reports, slides, wikis, PDFs.
 
 Quarkdown is a Turing-complete Markdown flavor with functions, variables, loops, and conditionals — a programmable alternative to LaTeX.
+
+## Install
+
+```shell
+npx skills add uditya-kumar/quarkdown-skill
+```
 
 ## What this skill provides
 
