@@ -1,0 +1,45 @@
+.docname {Presentation Title}
+.docauthor {Author Name}
+.doctype {slides}
+.doclang {English}
+.theme {beaver} layout:{beamer}
+
+.slides transition:{slide} speed:{default}
+
+.footer
+    .docauthor
+
+    **.docname**
+
+    .currentpage / .totalpages
+
+# Title slide
+
+.center
+    #! .docname
+
+    .docauthor
+
+# Outline
+
+.tableofcontents
+
+# Section A
+
+## First slide of section A
+
+- Point one
+- Point two
+
+.fragment
+    Revealed on next click.
+
+## Second slide of section A
+
+Body content goes here.
+
+# Section B
+
+## Slides of section B
+
+Use `#` for new sections (chapter slides) and `##` for slides within a section.

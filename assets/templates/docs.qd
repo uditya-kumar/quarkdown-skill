@@ -1,0 +1,16 @@
+.docname {Wiki Name}
+.doctype {docs}
+.doclang {English}
+.theme {galactic} layout:{hyperlegible}
+
+# Welcome
+
+This is the home page of the wiki. Each subdocument file becomes its own navigable page.
+
+.subdocumentgraph
+
+## Pages
+
+- [Getting started](getting-started.qd)
+- [User guide](user-guide.qd)
+- [Reference](reference.qd)

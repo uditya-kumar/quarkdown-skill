@@ -1,0 +1,42 @@
+.docname {Document Title}
+.docauthor {Author Name}
+.doctype {paged}
+.doclang {English}
+.theme {paperwhite} layout:{latex}
+
+.pageformat size:{A4} margin:{2.5cm}
+
+.numbering
+    - headings: 1.1.1
+    - figures: 1.1
+    - tables: 1.1
+    - equations: (1)
+
+.pagemargin {bottomcenter}
+    .currentpage / .totalpages
+
+<!-- Cover page. Without this, the title only lives in metadata and never appears on the page. -->
+.center
+    #! .docname
+
+    *.docauthor*
+
+<<<
+
+.tableofcontents
+
+# Introduction
+
+Replace this with the introduction.
+
+# Main content
+
+Replace this with the body of the document.
+
+## A subsection
+
+Add subsections as needed.
+
+# Conclusions
+
+Replace this with closing remarks.

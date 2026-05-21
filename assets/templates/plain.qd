@@ -1,0 +1,13 @@
+.docname {Document Title}
+.docauthor {Author Name}
+.doctype {plain}
+.doclang {English}
+.theme {paperwhite} layout:{latex}
+
+# Heading
+
+Body content. This is a continuous-flow document, like a Notion or Obsidian page.
+
+## Subsection
+
+Add structure as needed. Footnotes appear as sidenotes in the right margin[^: like this one].
