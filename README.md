@@ -47,6 +47,15 @@ References load on demand; `SKILL.md` stays lean.
 
 Auto-activates on `.qd` files, Quarkdown syntax questions, or requests for slides / paged PDFs / wikis from Markdown-like sources.
 
+## Evals
+
+Pass rate on the Quarkdown task suite, with and without this skill loaded.
+
+|              | Iteration 1   | Iteration 2   |
+|--------------|---------------|---------------|
+| With skill   | 26 / 26 = 100% | 27 / 27 = 100% |
+| Without skill | 15 / 26 = 57.9% | 24 / 27 = 88.9% |
+
 ## License
 
 Same terms as the surrounding project. Quarkdown: [iamgio/quarkdown](https://github.com/iamgio/quarkdown).
